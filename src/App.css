@@ -1,0 +1,35 @@
+* {
+  background-color: var(--dark);
+  color: var(--bright-white);
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0%;
+  font-family: 'Noto Sans Mono', monospace;
+
+  /* CSS HEX */
+  --dark: #282a36;
+  --light-dark: #44475a;
+  --bright-white: #f8f8f2;
+  --space-blue: #6272a4;
+  --bright-blue: #8be9fd;
+  --bright-green: #50fa7b;
+  --orangey: #ffb86c;
+  --hotty-pink: #ff79c6;
+  --purple-lurple: #bd93f9;
+  --manchester-red: #ff5555;
+  --spongebob: #f1fa8c;
+
+  /* --may-green: #6a9950ff;
+  --may-green-2: #529049ff;
+  --dark-goldenrod: #b58d1bff;
+  --asparagus: #7ea04fff;
+  --asparagus-2: #8ba97dff;
+  --linen: #f8ecdeff;
+  --deep-champagne: #eac89dff;
+  --dark-electric-blue: #426276ff;
+  --cadet-blue-crayola: #9fa9bbff;
+  --dark-spring-green: #346f49ff; */
+
+
+}
+

@@ -1,0 +1,20 @@
+.hello-container{
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+}
+.comp-img{
+    margin-right: 2%; 
+    float: left;
+    position: relative;
+    /* left: 60px; */
+}
+.hello-world{
+    float:right;
+    position: relative;
+    /* right: 100px; 
+    top: 200px;  */
+}
+.hello-world h1{
+    color: var(--hotty-pink);
+}
